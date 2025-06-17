@@ -1,20 +1,20 @@
-# ¡Hola! 👋 Soy Jaime Soni Bustos
+# Hello! 👋 I'm Jaime Soni Bustos
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Desarrollador+Back+End;Desarrollador+Front+End;Dise%C3%B1ador+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Back+End+Developer;Front+End+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
-## Sobre mí
+## About Me
 
-Soy un **Ingeniero en Desarrollo y Gestión de Software Multiplataforma** con experiencia liderando proyectos de desarrollo y creando soluciones innovadoras. Me especializo en desarrollo Full Stack, Diseño UI/UX y gestión de equipos de desarrollo.
+I'm a **Multiplatform Software Development and Management Engineer** with experience leading development projects and creating innovative solutions. I specialize in Full Stack development, UI/UX Design, and development team management.
 
-- 🔭 Mi último trabajo fue en: **Sistema de gestión basado en base de conocimientos (UFD)**
-- 👯 Buscando colaborar en: **Proyectos de código abierto y sistemas empresariales**
-- 📫 Contacto: **jaimesoni89@gmail.com**
-- 📍 Ubicación: **Estado de México, México**
-- ⚡ Dato curioso: **He liderado más de 7 proyectos diferentes como Full Stack Developer**
+- 🔭 My latest work was on: **Knowledge base management system (UFD)**
+- 👯 Looking to collaborate on: **Open source projects and enterprise systems**
+- 📫 Contact: **jaimesoni89@gmail.com**
+- 📍 Location: **State of Mexico, Mexico**
+- ⚡ Fun fact: **I've led over 7 different projects as a Full Stack Developer**
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
 <div align="center">
 
@@ -51,18 +51,18 @@ Soy un **Ingeniero en Desarrollo y Gestión de Software Multiplataforma** con ex
 
 </div>
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 <div align="center">
   <table>
     <tr>
       <td width="700px" valign="top">
-        <h3 align="center">💻 Lenguajes de programación</h3>
+        <h3 align="center">💻 Programming Languages</h3>
         <div align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeSoni&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
         </div>
       </td>
       <td width="50%" valign="top">
-  <h3 align="center">🛠️ Stack tecnológico más dominado</h3>
+  <h3 align="center">🛠️ Most Mastered Tech Stack</h3>
   <div align="center">
     <table cellspacing="10">
       <tr>
@@ -96,42 +96,42 @@ Soy un **Ingeniero en Desarrollo y Gestión de Software Multiplataforma** con ex
   </table>
   
   <div align="center">
-    <h3>📈 Experiencia y actividad</h3>
+    <h3>📈 Experience and Activity</h3>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaimeSoni&theme=tokyonight" alt="Profile Details" />
   </div>
 </div>
 
-### 📜 Certificaciones Obtenidas
+### 📜 Certifications Obtained
 - **HTML** - SoloLearn
 - **CSS** - SoloLearn
-- **Desarrollo Web** - SoloLearn  
+- **Web Development** - SoloLearn  
 - **JavaScript** - SoloLearn
 - **React** - Simplilearn
 
-## 🎓 Educación
+## 🎓 Education
 
-**🎓 Ingeniería en Desarrollo y Gestión del Software Multiplataforma (2021-2025)**
+**🎓 Multiplatform Software Development and Management Engineering (2021-2025)**
 - Universidad Tecnológica de la Sierra Hidalguense
-- Especialidad: Desarrollo de Software Multiplataforma
+- Specialty: Multiplatform Software Development
 
-**💻 Técnico en Programación (2018-2021)**
+**💻 Programming Technician (2018-2021)**
 - Preparatoria CBTIS No. 5
-- Área: Informática y Programación
+- Area: Computer Science and Programming
 
-## 💪 Habilidades Profesionales
+## 💪 Professional Skills
 
-- **🤝 Liderazgo:** Experiencia liderando equipos de desarrollo en múltiples proyectos
-- **🔄 Adaptabilidad:** Facilidad para integrarme en diferentes entornos y tecnologías
-- **💡 Creatividad:** Enfoque innovador en desarrollo visual y soluciones técnicas
-- **🔧 Resolución de Problemas:** Capacidad para encontrar soluciones eficientes bajo presión
-- **📞 Comunicación Efectiva:** Habilidad para mantener comunicación clara en equipos técnicos
+- **🤝 Leadership:** Experience leading development teams in multiple projects
+- **🔄 Adaptability:** Ease of integration into different environments and technologies
+- **💡 Creativity:** Innovative approach to visual development and technical solutions
+- **🔧 Problem Solving:** Ability to find efficient solutions under pressure
+- **📞 Effective Communication:** Skill to maintain clear communication in technical teams
 
-## 💡 Filosofía de Desarrollo
+## 💡 Development Philosophy
 
-> "La creatividad y la meticulosidad en el desarrollo no solo crean código funcional, sino experiencias digitales memorables."
+> "Creativity and meticulousness in development not only create functional code, but memorable digital experiences."
 
-Como desarrollador Full Stack y líder de proyectos, creo en la importancia de combinar habilidades técnicas sólidas con un enfoque creativo en el diseño UI/UX. Mi experiencia liderando equipos me ha enseñado que la comunicación efectiva y la colaboración son tan importantes como el código limpio.
+As a Full Stack developer and project leader, I believe in the importance of combining solid technical skills with a creative approach to UI/UX design. My experience leading teams has taught me that effective communication and collaboration are as important as clean code.
 
 <div align="center">
-   De <a href="https://github.com/JaimeSoni">Jaime Soni Bustos</a>
+   From <a href="https://github.com/JaimeSoni">Jaime Soni Bustos</a>
 </div>
